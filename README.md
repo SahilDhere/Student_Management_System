@@ -87,7 +87,7 @@ This project is built using React + Tailwind CSS for the frontend, Node.js + Exp
 
 ## Installation Project from git
   Clone the repository : 
-  git clone https://github.com/your-username/student-management-system.git
+  git clone https://github.com/SahilDhere/Student_Management_System.git
  
 
 ## Installation (Backend)
